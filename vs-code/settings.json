@@ -24,5 +24,6 @@
     "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
     "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
     "window.zoomLevel": -1,
-    "workbench.statusBar.feedback.visible": false
+    "workbench.statusBar.feedback.visible": false,
+    "editor.lineNumbers": "relative"
 }
