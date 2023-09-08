@@ -18,7 +18,6 @@
     "editor.tabCompletion": "on",
     "explorer.openEditors.visible": 0,
     "files.trimTrailingWhitespace": true,
-    "http.proxy": "http://proxyiwsva.alliander.local:8080/",
     "java.configuration.checkProjectSettingsExclusions": false,
     "javascript.suggestionActions.enabled": false,
     "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
